@@ -1,0 +1,9 @@
+# Initially, self destructing message system
+
+# No reports/bans/timeouts?
+# Sqlite database for simplicity and don't have to worry about DB server like you would with MySQL? (No need to hack anyways really)
+#LATER# Use PostgreSQL because is safer than Sqlite and Heroku has support 
+# If becomes scaled, use more secure db?
+# Get Heroku working with Node.js
+# Use node-localstorage (local storage) to check for things like first time opening app (so prompt to register)
+# Maybe at end, initial register view
